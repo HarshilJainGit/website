@@ -1861,6 +1861,25 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997; }
 
+
+
+/* work on mobile screen*/
+/*@media screen and (max-width: 500px) {
+  #header nav {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .header-right {
+    float: none;
+  }
+}*/
+
+
+
+
+
 #header.header-scrolled {
   position: fixed;
   box-shadow: -21.213px 21.213px 30px 0px rgba(158, 158, 158, 0.3);
